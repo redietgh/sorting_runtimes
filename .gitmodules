@@ -1,3 +1,6 @@
 [submodule "sorting"]
 	path = sorting
-	url = https://github.com/mikeizbicki/sorting
+	url = https://github.com/redietgh/sorting
+[submodule "sorting_runtimes"]
+	path = sorting_runtimes
+	url = https://github.com/redietgh/sorting_runtimes
